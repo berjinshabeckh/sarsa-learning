@@ -1,4 +1,7 @@
 # SARSA Learning Algorithm
+# Date: 23/10/2024
+# Reg no: 212222240018
+# Nme: H.Berjin Shabeck
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
